@@ -1,11 +1,13 @@
 Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 
 Title: Fundamentals of Generative AI and Large Language Models (LLMs)
+
 Name : GUGAPRIYA P
 Institution: SAVEETHA ENGINEERING COLLEGE
 Reg No : 212223060075
 
 Abstract
+
 Generative Artificial Intelligence (AI) is a revolutionary field in computer science that enables machines to create human-like content, such as text, images, audio, and video. Large Language Models (LLMs), a subset of Generative AI, leverage advanced architectures like Transformers to process and generate natural language with remarkable fluency. This report explores the foundational principles of Generative AI, the architectures behind it, real-world applications, and the impact of scaling LLMs. It aims to provide readers with a clear understanding of the concepts, technologies, and future trends shaping this field.
 
 Table of Contents
