@@ -1,4 +1,4 @@
-<img width="1734" height="807" alt="image" src="https://github.com/user-attachments/assets/6c7bdd55-5cc7-458d-bd0d-6aa206a30141" />Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
+Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 
 Title: Fundamentals of Generative AI and Large Language Models (LLMs)
 Name : GUGAPRIYA P
